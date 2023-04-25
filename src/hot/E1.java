@@ -28,6 +28,7 @@ public class E1 {
             if(map.containsKey(target - nums[i]) && map.get(target - nums[i]) != i){
                 res[0] = i;
                 res[1] = map.get(target - nums[i]);
+                System.out.println("嘻嘻嘻");
                 return res;
             }
         }
