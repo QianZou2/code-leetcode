@@ -33,6 +33,7 @@ public class E1 {
                 System.out.println("master--");
                 System.out.println("我是hot-fix分支 text");
                 System.out.println("test-push");
+                System.out.println("pull-test");
                 return res;
             }
         }
