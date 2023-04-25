@@ -31,6 +31,7 @@ public class E1 {
                 System.out.println("嘻嘻嘻");
                 System.out.println("我是hot-fix分支");
                 System.out.println("master--");
+                System.out.println("我是hot-fix分支 text");
                 return res;
             }
         }
