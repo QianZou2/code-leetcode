@@ -34,6 +34,7 @@ public class E1 {
                 System.out.println("我是hot-fix分支 text");
                 System.out.println("test-push");
                 System.out.println("pull-test");
+                System.out.println("pull-gitee-test");
                 return res;
             }
         }
